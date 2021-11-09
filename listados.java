@@ -1,10 +1,5 @@
 import java.util.Scanner;
-/**
- * Comentario de documentación para clase listados
- * Solo se pueden documentar las clases públicas y protegidas 
- * y sus métodos siempre que estos sean también publicos o protegidos
- * @author Monse
- * */
+
 public class listados{
 	/**
 	* Comentario de documentación metodo
